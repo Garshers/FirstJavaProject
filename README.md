@@ -11,4 +11,4 @@ This is the first project created using Java, designed to demonstrate basic conc
 
 ## Technologies Used
 **Java:** Programming language used for the project.
-**Scanner class:** For handling user input.
+**Scanner class:** For handling user input."# FirstJavaProject" 
